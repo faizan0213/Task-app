@@ -18,7 +18,7 @@ A Flutter application that demonstrates fetching and displaying user data from a
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/faizan0213/Task-app.git>
    cd task_app
    ```
 
